@@ -1,0 +1,66 @@
+**1. Управление файловой системой в Linux**
+
+**Монтирование файловых систем:**
+- `mount` - показать смонтированные ФС
+- `mount /dev/sda1 /mnt` - монтирование устройства
+- `umount /mnt` - размонтирование
+- `/etc/fstab` - автоматическое монтирование при загрузке
+
+**Создание файловых систем:**
+- `mkfs.ext4 /dev/sdb1` - создание ext4
+- `mkfs.ntfs /dev/sdb2` - создание NTFS
+- `mkswap /dev/sdb3` - создание swap
+
+**Проверка и восстановление:**
+- `fsck /dev/sda1` - проверка файловой системы
+- `df -h` - информация о свободном месте
+- `du -sh /path` - размер каталога
+
+**Квотирование:**
+- `quota` - проверка квот
+- `edquota` - редактирование квот
+
+---
+
+**2. Работа с архивами в Linux**
+
+**tar (архивация без сжатия):**
+- `tar -cvf archive.tar files/` - создать архив
+- `tar -xvf archive.tar` - распаковать
+- `tar -tvf archive.tar` - просмотреть содержимое
+
+**Сжатые архивы:**
+- `tar -czvf archive.tar.gz files/` - gzip сжатие
+- `tar -cjvf archive.tar.bz2 files/` - bzip2 сжатие
+- `tar -cJvf archive.tar.xz files/` - xz сжатие
+
+**Распаковка:**
+- `tar -xzvf archive.tar.gz` - распаковать gzip
+- `tar -xjvf archive.tar.bz2` - распаковать bzip2
+
+**Zip архивы:**
+- `zip archive.zip files/` - создать zip
+- `unzip archive.zip` - распаковать zip
+
+---
+
+**3. Специальные команды**
+
+**Разложение чисел на множители:**
+```bash
+factor 123456
+```
+Вывод: `123456: 2 2 2 2 2 2 3 643`
+
+**Трассировка сайтов (маршрутизации):**
+```bash
+traceroute example.com
+```
+или современная версия:
+```bash
+tracepath example.com
+```
+
+**Альтернативы:**
+- `mtr example.com` - комбинированный traceroute + ping
+- `dig example.com` - DNS диагностика
