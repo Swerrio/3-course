@@ -1,0 +1,11 @@
+H:\04 -ИСП-3-27\Нестеренко\РПМ\S\1-2\RPM_1-2\bin\Debug\RPM_1-2.exe.config
+H:\04 -ИСП-3-27\Нестеренко\РПМ\S\1-2\RPM_1-2\bin\Debug\RPM_1-2.exe
+H:\04 -ИСП-3-27\Нестеренко\РПМ\S\1-2\RPM_1-2\bin\Debug\RPM_1-2.pdb
+H:\04 -ИСП-3-27\Нестеренко\РПМ\S\1-2\RPM_1-2\obj\Debug\RPM_1-2.csproj.AssemblyReference.cache
+H:\04 -ИСП-3-27\Нестеренко\РПМ\S\1-2\RPM_1-2\obj\Debug\RPM_1-2.csproj.SuggestedBindingRedirects.cache
+H:\04 -ИСП-3-27\Нестеренко\РПМ\S\1-2\RPM_1-2\obj\Debug\RPM_1_2.Form1.resources
+H:\04 -ИСП-3-27\Нестеренко\РПМ\S\1-2\RPM_1-2\obj\Debug\RPM_1_2.Properties.Resources.resources
+H:\04 -ИСП-3-27\Нестеренко\РПМ\S\1-2\RPM_1-2\obj\Debug\RPM_1-2.csproj.GenerateResource.cache
+H:\04 -ИСП-3-27\Нестеренко\РПМ\S\1-2\RPM_1-2\obj\Debug\RPM_1-2.csproj.CoreCompileInputs.cache
+H:\04 -ИСП-3-27\Нестеренко\РПМ\S\1-2\RPM_1-2\obj\Debug\RPM_1-2.exe
+H:\04 -ИСП-3-27\Нестеренко\РПМ\S\1-2\RPM_1-2\obj\Debug\RPM_1-2.pdb
