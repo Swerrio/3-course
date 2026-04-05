@@ -1,0 +1,10 @@
+F:\Learning\3-course\запор\3-2\S\8-9\8-9\8-9\obj\Debug\8-9.csproj.AssemblyReference.cache
+F:\Learning\3-course\запор\3-2\S\8-9\8-9\8-9\obj\Debug\_8_9.Form1.resources
+F:\Learning\3-course\запор\3-2\S\8-9\8-9\8-9\obj\Debug\_8_9.Properties.Resources.resources
+F:\Learning\3-course\запор\3-2\S\8-9\8-9\8-9\obj\Debug\8-9.csproj.GenerateResource.cache
+F:\Learning\3-course\запор\3-2\S\8-9\8-9\8-9\obj\Debug\8-9.csproj.CoreCompileInputs.cache
+F:\Learning\3-course\запор\3-2\S\8-9\8-9\8-9\bin\Debug\8-9.exe.config
+F:\Learning\3-course\запор\3-2\S\8-9\8-9\8-9\bin\Debug\8-9.exe
+F:\Learning\3-course\запор\3-2\S\8-9\8-9\8-9\bin\Debug\8-9.pdb
+F:\Learning\3-course\запор\3-2\S\8-9\8-9\8-9\obj\Debug\8-9.exe
+F:\Learning\3-course\запор\3-2\S\8-9\8-9\8-9\obj\Debug\8-9.pdb
