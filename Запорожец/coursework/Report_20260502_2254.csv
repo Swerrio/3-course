@@ -1,0 +1,3 @@
+﻿rental_id;client_id;item_id;employee_id;start_time;end_time_planned;end_time_actual;total_price;penalty_fee;return_condition
+2;2;2;2;02.05.2026 14:00:00;02.05.2026 17:00:00;;;0,00;
+1;1;3;2;01.05.2026 10:00:00;01.05.2026 12:00:00;01.05.2026 12:15:00;900,00;150,00;Задержка возврата на 15 минут
