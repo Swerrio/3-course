@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LabWork>
+    <Student>
+        <FullName>Нестеренко Никита Александрович</FullName>
+        <Variant>15</Variant>
+        <BirthYear>2008</BirthYear>
+        <Age>18</Age>
+        <LabName>Работа с XML-документами</LabName>
+    </Student>
+</LabWork>
